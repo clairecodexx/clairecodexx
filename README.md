@@ -1,1 +1,1 @@
-![galaxy](./galaxy.svg)
+![galaxy](./galax.svg)
